@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ana-paula-rivera-posadas-2ba2501a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ana-paula-rivera-posadas-2ba2501a7/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ana-paula-rivera-posadas-2ba2501a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ana-paula-rivera-posadas-2ba2501a7/" height="30" width="40" /></a>
 <a href="https://instagram.com/anna.rvps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anna.rvps" height="30" width="40" /></a>
 </p>
 
