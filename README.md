@@ -3,9 +3,9 @@
 
 - 💬 Ask me about **UX/UI, Front-end development**
 
-- 📫 How to reach me **https://www.linkedin.com/in/ana-paula-rivera-posadas-2ba2501a7/**
+- 📫 You can reach me at: **https://www.linkedin.com/in/ana-paula-rivera-posadas-2ba2501a7/**
 
-- ⚡ Fun fact **I really like digital art, graphic design and taking photos**
+- ⚡ Fun fact **I really like digital art🎨, graphic design🖌 and taking photos📸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
