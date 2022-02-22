@@ -5,7 +5,7 @@
 
 - 📫 You can reach me at: **https://www.linkedin.com/in/ana-paula-rivera-posadas-2ba2501a7/**
 
-- ⚡ **<span> The things I enjoy the most are digital art🎨, graphic design🖌 and <a href="https://instagram.com/anna.rvps"> taking photos📸</a></span>**
+- ⚡ **<span> The things I enjoy the most are digital art🎨, graphic design🖌 and <a href="https://instagram.com/anna.rvps"> photography📸</a></span>**
 
 - <a href="https://github.com/paurv?tab=stars" target="blank">💫⭐Starred Proyects⭐💫</a>
 <br/>
