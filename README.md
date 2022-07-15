@@ -7,7 +7,7 @@
 
 - ⚡ **<span> The things I enjoy the most are digital art🎨, graphic design🖌 and <a href="https://instagram.com/anna.rvps"> photography📸</a></span>**
 
-- <a href="https://github.com/paurv?tab=stars" target="blank">💫⭐Starred Proyects⭐💫</a>
+- <a href="https://github.com/paurv?tab=stars" target="blank">💫⭐Starred Projects⭐💫</a>
 <br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
